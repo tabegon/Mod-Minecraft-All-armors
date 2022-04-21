@@ -15,6 +15,12 @@
   - Crédits
 
 ### Comment télécharger le mod :
+---
+<img src="https://user-images.githubusercontent.com/66781353/164524170-7a684c26-7688-4163-8ac5-7aae190f09bf.png" alt="Attention" width="200"/>
+
+[Si vous avez déjà forge skipez cette partie en appuyant sur ce lien](https://github.com/tabegon/Mod-Minecraft-All-armors/edit/main/README.md#deuxi%C3%A8mement-installer-le-mod-)
+
+---
 #### premièrement il faut avoir forge. Pour avoir forge il faut:
 - [cliquez sur ce lien](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.17.1.html) ou taper `forge` sur la barre de recherche
   - aller sur le premier lien
@@ -27,3 +33,14 @@
 ![Capture d’écran 2022-04-21 194309](https://user-images.githubusercontent.com/66781353/164519598-53b368a3-753c-474f-9377-b575d6ace664.png)
 - Ensuite trouvez votre dossier minecraft ou si vous voulez des tutos allez tout en bas de la page : 
 - Dans le dossier `.minecraft`, Créez un nouveau dossier : `Mods`
+
+#### Deuxièmement Installer le mod :
+- Si vous regardez ce Readme c'est que vous êtes sur ma page guithub donc allez directement appuyé sur `code`
+> ![Capture d’écran 2022-04-21 201731](https://user-images.githubusercontent.com/66781353/164526925-0bf75bb4-4446-4ea5-a841-a74b65a8075e.png)
+- Puis sur `download ZIP`
+> ![Capture d’écran 2022-04-21 201932](https://user-images.githubusercontent.com/66781353/164527233-9e411bc8-5bc8-4425-b129-5b743f65d45f.png)
+- Quand le ZIP est télécharger il faut l'extraire dans le fichier `Mods`
+([Si vous ne trouvez pas le fichier Mods Relisez la partie 1 du téléchargement du mod](https://github.com/tabegon/Mod-Minecraft-All-armors/edit/main/README.md#premi%C3%A8rement-il-faut-avoir-forge-pour-avoir-forge-il-faut) ou aller regardez tout en bas pour les tutos)
+- ****Et enfin le téléchargement du mod est fini si vous lancer le launcher minecraft vous avez une nouvelle configuration : C'est forge jouez sur cette configuration et vous jouerais sur le mod****
+
+
