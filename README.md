@@ -43,4 +43,25 @@
 ([Si vous ne trouvez pas le fichier Mods Relisez la partie 1 du téléchargement du mod](https://github.com/tabegon/Mod-Minecraft-All-armors#premi%C3%A8rement-il-faut-avoir-forge-pour-avoir-forge-il-faut) ou aller regardez tout en bas pour les tutos)
 - ****Et enfin le téléchargement du mod est fini si vous lancer le launcher minecraft vous avez une nouvelle configuration : C'est forge jouez sur cette configuration et vous jouerais sur le mod****
 
+### Wiki
 
+> Aller dans la page Wiki 
+
+### Captures d'écrans
+
+> ![Capture d’écran 2022-04-21 205652](https://user-images.githubusercontent.com/66781353/164620881-02b3b1b7-5027-48c8-811c-f8e22a970a36.png)
+
+### Nouvelles de la mise à jour
+
+> Nouvelle armure : Armure en pierre
+> Nouvel item : Seau de cuivre d'eau
+> Nouveau craft : craft pour faire l'armure d'eau ou plutot dit le scaphandre
+
+### Tutos
+
+Aucun tutoriel pour le moment
+
+### Crédits
+
+Fontemagne : Fais les textures et les testes
+MonsieurTh30 : Fais le README, fais le code
