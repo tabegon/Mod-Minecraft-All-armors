@@ -18,7 +18,7 @@
 ---
 <img src="https://user-images.githubusercontent.com/66781353/164524170-7a684c26-7688-4163-8ac5-7aae190f09bf.png" alt="Attention" width="200"/>
 
-[Si vous avez déjà forge skipez cette partie en appuyant sur ce lien](https://github.com/tabegon/Mod-Minecraft-All-armors#comment-t%C3%A9l%C3%A9charger-le-mod-)
+[Si vous avez déjà forge skipez cette partie en appuyant sur ce lien](https://github.com/tabegon/Mod-Minecraft-All-armors#deuxi%C3%A8mement-installer-le-mod-)
 
 ---
 #### premièrement il faut avoir forge. Pour avoir forge il faut:
