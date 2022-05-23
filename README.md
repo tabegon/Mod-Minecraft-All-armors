@@ -7,12 +7,12 @@
 
 # Français
 ## Sommaire
-  - Comment télécharger le mod
-  - Wikipédia
-  - Capture d'écrans
-  - Nouvelles de la mise à jour
-  - Tutos
-  - Crédits
+  - [Comment télécharger le mod](https://github.com/tabegon/Mod-Minecraft-All-armors#comment-t%C3%A9l%C3%A9charger-le-mod-)
+  - [Wikipédia](https://github.com/tabegon/Mod-Minecraft-All-armors#wiki)
+  - [Capture d'écrans](https://github.com/tabegon/Mod-Minecraft-All-armors#captures-d%C3%A9crans)
+  - [Nouvelles de la mise à jour](https://github.com/tabegon/Mod-Minecraft-All-armors#nouvelles-de-la-mise-%C3%A0-jour)
+  - [Tutos](https://github.com/tabegon/Mod-Minecraft-All-armors#tutos)
+  - [Crédits](https://github.com/tabegon/Mod-Minecraft-All-armors#cr%C3%A9dits)
 
 ### Comment télécharger le mod :
 ---
@@ -73,19 +73,21 @@ MonsieurTh30 : Fais le README, fais le code, quelque textures
 
 # English 
 ## Contents
-  - How to download the mod
-  - Wikipedia
-  - Screenshot
-  - Update News
-  - Tutorials
-  - Credits
+  - [How to download the mod](https://github.com/tabegon/Mod-Minecraft-All-armors#how-to-download-the-mod)
+  - [Wikipedia](https://github.com/tabegon/Mod-Minecraft-All-armors#wiki-1)
+  - [Screenshot](https://github.com/tabegon/Mod-Minecraft-All-armors#screenshots)
+  - [Update News](https://github.com/tabegon/Mod-Minecraft-All-armors#update-news)
+  - [Tutorials](https://github.com/tabegon/Mod-Minecraft-All-armors#tutorials)
+  - [Credits](https://github.com/tabegon/Mod-Minecraft-All-armors#credits)
 
 ### How to download the mod:
 
 #### first, you need forge. To have forge it is necessary:
 ---
   <img src="https://user-images.githubusercontent.com/66781353/164524170-7a684c26-7688-4163-8ac5-7aae190f09bf.png" alt="Attention" width="200"/>
+  
   [If you have already forged skip this part by tapping on this link](https://github.com/tabegon/Mod-Minecraft-All-armors#second-install-mod)
+  
 ---
 
 - [click on this link](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.17.1.html) or type `forge` on the search bar
