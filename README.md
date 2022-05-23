@@ -85,8 +85,9 @@ MonsieurTh30 : Fais le README, fais le code, quelque textures
 #### first, you need forge. To have forge it is necessary:
 ---
   <img src="https://user-images.githubusercontent.com/66781353/164524170-7a684c26-7688-4163-8ac5-7aae190f09bf.png" alt="Attention" width="200"/>
+  [If you have already forged skip this part by tapping on this link](https://github.com/tabegon/Mod-Minecraft-All-armors#second-install-mod)
 ---
-[If you have already forged skip this part by tapping on this link](https://github.com/tabegon/Mod-Minecraft-All-armors#second-install-mod)
+
 - [click on this link](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.17.1.html) or type `forge` on the search bar
   - go to the first link
   - press the button `1.17` then `1.17.1`
